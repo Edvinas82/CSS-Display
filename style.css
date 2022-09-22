@@ -1,0 +1,34 @@
+.juodas {
+    height: 200px; width: 100%;
+    border: 2px solid black;
+    margin: 5px 10px 10px 5px;
+}
+
+.pastraipa{
+    margin-top: 0px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.blokeliai{
+    height: 100px;
+    width: 20%;
+    display: inline-block;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 9.5%;
+
+}
+
+.zydras {
+    background-color: aqua;
+    margin-left: 9.5%;
+}
+
+.purpurinis{
+    background-color: rgb(184, 97, 148);
+}
+
+.sviesiai-zalias{
+    background-color: greenyellow;
+}
