@@ -1,0 +1,17 @@
+.kolonos {
+    display: inline-block;
+    height: 200px;
+    width: 44.41%;
+    margin-top: 35px;
+    border: 2px solid black;
+}
+
+.kolona-virsuje {
+    height: 75px;
+    width: 99.41%;
+    border: 2px solid black;
+}
+
+.kolonos-tarpas {
+    margin-right: 10%;
+}

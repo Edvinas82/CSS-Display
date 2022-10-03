@@ -1,0 +1,76 @@
+.isorine-kolona1 {
+    display: inline-block;
+    height: 250px;
+    width: 30%;
+    margin-right: 7%;
+    border: 2px solid black;
+}
+
+.isorine-kolona2 {
+    display: inline-block;
+    height: 250px;
+    width: 62%;
+    border: 2px solid black;
+}
+
+.vidine-kolona1-1 {
+    height: 84px;
+    width: 20%;
+    margin-top: 12px;
+    margin-right: 5%;
+    margin-bottom: 6px;
+    margin-left: 5%;
+    border: 2px solid black;
+}
+
+.vidine-kolona1-2 {
+    height: 84px;
+    width: 20%;
+    margin-top: 6px;
+    margin-right: 5%;
+    margin-bottom: 6px;
+    margin-left: 5%;
+    border: 2px solid black;
+}
+
+.vidine-kolona1-3  {
+    height: 84px;
+    width: 20%;
+    margin-top: 12px;
+    margin-right: 5%;
+    margin-bottom: 12px;
+    margin-left: 5%;
+    border: 2px solid black;
+}
+
+.vidine-kolona2-1 {
+    height: 82px;
+    width: 50%;
+    margin-top: 12px;
+    margin-right: 5%;
+    margin-bottom: 6px;
+    margin-left: 5%;
+    border:  2px solid black;
+}
+
+vidine-kolona2-2 {
+    display: inline-block;
+    height: 144px;
+    width: 23.5;
+    margin-top: 6px;
+    margin-right: 2.5%;
+    margin-bottom: 12px;
+    margin-left: 5%;
+    border:  2px solid black;
+}
+
+.vidine-kolona2-3 {
+    display: inline-block;
+    height: 144px;
+    width: 23.5;
+    margin-top: 6px;
+    margin-right: 5%;
+    margin-bottom: 12px;
+    margin-left: 2.5%;
+    border:  2px solid black;
+}

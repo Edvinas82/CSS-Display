@@ -1,0 +1,13 @@
+.kolonos {
+    display: inline-block;
+    height: 200px;
+    width: 30%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 10%;
+    border: 2px solid black;
+}
+
+.kolona1 {
+    margin-left: 10%;
+}
